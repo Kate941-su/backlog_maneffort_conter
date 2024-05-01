@@ -1,0 +1,9 @@
+certifi
+charset-normalizer
+idna
+pip
+requests
+setuptools
+urllib3
+formatter2
+python-dotenv

@@ -1,0 +1,12 @@
+{
+    "issue_name": "{ISSUE_NAME}",
+    "project_id" : "{ISSUE_ID}",
+    "name_dict": 
+        {
+            "北谷 海斗": "北谷"
+        },
+    "start_date": "2024/4/01",
+    "end_date": "2024/4/30",
+    "output_path": "./csv/TMD_SHARE_202404.csv",
+    "start_from": "1"
+}
